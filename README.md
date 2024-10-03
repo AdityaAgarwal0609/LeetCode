@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,4 +43,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

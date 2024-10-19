@@ -44,4 +44,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0670-maximum-swap) |
+## Greedy
+|  |
+| ------- |
+| [0670-maximum-swap](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0670-maximum-swap) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1894-merge-strings-alternately](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->

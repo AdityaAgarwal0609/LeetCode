@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3429-special-array-i](https://github.com/AdityaAgarwal0609/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
